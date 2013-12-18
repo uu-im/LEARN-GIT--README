@@ -21,7 +21,5 @@ If you want to learn more about branching:
 http://pcottle.github.io/learnGitBranching/
 
 
-### Serious versioning
-A lot of screencasts (paid) made by Gary Bernhardt at https://destoryallsoftware.com/ really show off some of the greater powers of git.
-
-[TODO: Find links to free resources about stuff like interactive add, rebase, config, etc]
+### In action
+If you want to see git being used in action (I assume you're already using git but want to up your skills a notch) then I would definitely recommend checking out Gary Bernhardt's screencasts (paid) over at https://destoryallsoftware.com/ . Plus you then also get to learn about the wonders of the unix command line :)

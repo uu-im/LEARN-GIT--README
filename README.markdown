@@ -2,6 +2,13 @@ This document is intended to serve as a knowledge base about Git and the support
 
 
 ### Text tutorials
+A guide to git from Standford:
+http://www-cs-students.stanford.edu/~blynn/gitmagic/ch02.html#_add_delete_rename
+
+A seemingly pragmatic guide to getting started with git:
+http://gitimmersion.com/
+
+
 Why duplicate the internet, here's a blog post listing good tutorials:
 http://sixrevisions.com/resources/git-tutorials-beginners/
 

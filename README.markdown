@@ -1,3 +1,6 @@
+This document is intended to serve as a knowledge base about Git and the supporting tools around. It's intended to be rewritten and added to at your will. If you know awesome links, please add them here so we can all share some knowledge :)
+
+
 ### Text tutorials
 Why duplicate the internet, here's a blog post listing good tutorials:
 http://sixrevisions.com/resources/git-tutorials-beginners/

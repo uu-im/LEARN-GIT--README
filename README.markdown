@@ -22,4 +22,4 @@ http://pcottle.github.io/learnGitBranching/
 
 
 ### In action
-If you want to see git being used in action (I assume you're already using git but want to up your skills a notch) then I would definitely recommend checking out Gary Bernhardt's screencasts (paid) over at https://destoryallsoftware.com/ . Plus you then also get to learn about the wonders of the unix command line :)
+If you want to see git being used in action (I assume you're already using git but want to up your skills a notch) then I would definitely recommend checking out Gary Bernhardt's screencasts (paid) over at https://destroyallsoftware.com/ . Plus you then also get to learn about the wonders of the unix command line :)
